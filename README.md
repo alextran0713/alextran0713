@@ -11,7 +11,7 @@ May your day be filled with happiness and success
 - 🔭 I am driven by the desire to contribute to a better world through my coding abilities.
 - 🌱 I’m currently working at 777 Partners
 - 📫 How to reach me: **alextran9613@gmail.com**
-- ⚡ Fun fact: **Should we use Typescript when we label everything <any> type? 🙃**
+- ⚡ Fun fact: **Should we use Typescript when we label everything ``<any>`` type? 🙃**
 </p>
 
 <h2 align="left">Languages</h2>
